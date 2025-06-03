@@ -1,6 +1,6 @@
 - 👋 Hi, I’m José Paulo 
-- 👀 I’m interested Desevolvimento web/mobile/python
-- 🌱 I’m currently learning Djanfo/alura
+- 👀 I’m interested Desevolvimento web/mobile/python/Data Science
+- 🌱 I’m currently learning Django/alura
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
